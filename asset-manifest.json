@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hermes/static/css/main.6c45cab5.css",
+    "main.js": "/hermes/static/js/main.13afbb6a.js",
+    "static/media/cart.svg": "/hermes/static/media/cart.aee48d0514120b5419ef64faec67ba5e.svg",
+    "index.html": "/hermes/index.html",
+    "static/media/burger.svg": "/hermes/static/media/burger.e268f64836dce9224747dd2367e033af.svg",
+    "main.6c45cab5.css.map": "/hermes/static/css/main.6c45cab5.css.map",
+    "main.13afbb6a.js.map": "/hermes/static/js/main.13afbb6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c45cab5.css",
+    "static/js/main.13afbb6a.js"
+  ]
+}
